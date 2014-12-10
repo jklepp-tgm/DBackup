@@ -11,3 +11,18 @@ MongoDB also allows storing binary data, which is being stored in BSON (binary
 JSON) objects.
 
 
+Backup/Restore using Filesytem Snapshots
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Backup/Restore using MongoDB Tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Backup/Restore using Sharded Clusters
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Restore a Replica Set using MongoDB Backups
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+http://docs.mongodb.org/manual/administration/backup/
+http://docs.mongodb.org/manual/tutorial/backup-with-mongodump/
+
